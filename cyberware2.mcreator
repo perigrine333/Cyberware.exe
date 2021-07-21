@@ -169,7 +169,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "component_actuator",
-      "path": "~/Components"
+      "path": "~/Items/Components"
     },
     {
       "name": "ComponentFiberOptics",
@@ -179,7 +179,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "component_fiber_optics",
-      "path": "~/Components"
+      "path": "~/Items/Components"
     },
     {
       "name": "ComponentFullereneMicrostructures",
@@ -189,7 +189,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "component_fullerene_microstructures",
-      "path": "~/Components"
+      "path": "~/Items/Components"
     },
     {
       "name": "ComponentMicroelectricCells",
@@ -199,7 +199,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "component_microelectric_cells",
-      "path": "~/Components"
+      "path": "~/Items/Components"
     },
     {
       "name": "ComponentChromePlating",
@@ -209,7 +209,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "component_chrome_plating",
-      "path": "~/Components"
+      "path": "~/Items/Components"
     },
     {
       "name": "ComponentBioreactor",
@@ -219,7 +219,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "component_bioreactor",
-      "path": "~/Components"
+      "path": "~/Items/Components"
     },
     {
       "name": "ComponentSolidStateCircuitry",
@@ -229,7 +229,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "component_solid_state_circuitry",
-      "path": "~/Components"
+      "path": "~/Items/Components"
     },
     {
       "name": "ComponentStorageCell",
@@ -239,7 +239,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "component_storage_cell",
-      "path": "~/Components"
+      "path": "~/Items/Components"
     },
     {
       "name": "ComponentSyntheticNerves",
@@ -249,7 +249,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "component_synthetic_nerves",
-      "path": "~/Components"
+      "path": "~/Items/Components"
     },
     {
       "name": "ComponentTitaniumMesh",
@@ -259,7 +259,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "component_titanium_mesh",
-      "path": "~/Components"
+      "path": "~/Items/Components"
     },
     {
       "name": "BiowareLT",
@@ -279,7 +279,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_cybereyes",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedNightVision",
@@ -289,7 +289,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_night_vision",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedLiquidRefractionCalibrator",
@@ -299,7 +299,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_liquid_refraction_calibrator",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedHudjack",
@@ -309,7 +309,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_hudjack",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedTargetingOverlay",
@@ -319,7 +319,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_targeting_overlay",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedDistanceEnhancer",
@@ -329,7 +329,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_distance_enhancer",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedHudlens",
@@ -339,7 +339,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_hudlens",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedCorticalStack",
@@ -349,7 +349,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_cortical_stack",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedEnderJammer",
@@ -359,7 +359,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_ender_jammer",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedConsciousnessTransmitter",
@@ -369,7 +369,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_consciousness_transmitter",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedNeuralContextualizer",
@@ -379,7 +379,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_neural_contextualizer",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedThreatMatrixCalculator",
@@ -389,7 +389,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_threat_matrix_calculator",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedCardiomechanicPump",
@@ -399,7 +399,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_cardiomechanic_pump",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedInternalDefibrillator",
@@ -409,7 +409,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_internal_defibrillator",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedPlateletDispatcher",
@@ -419,7 +419,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_platelet_dispatcher",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedStemCellSynthesizer",
@@ -429,7 +429,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_stem_cell_synthesizer",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedCardiovascularCoupler",
@@ -439,7 +439,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_cardiovascular_coupler",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedCompressedOxygenImplant",
@@ -449,7 +449,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_compressed_oxygen_implant",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedHyperoxygenationBoost",
@@ -459,7 +459,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_hyperoxygenation_boost",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedUltradenseCapacitor",
@@ -469,7 +469,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_ultradense_capacitor",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedLiverFilter",
@@ -479,7 +479,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_liver_filter",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedMetabolicGenerator",
@@ -489,7 +489,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_metabolic_generator",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedInternalBattery",
@@ -499,7 +499,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_internal_battery",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedAdrenalinePump",
@@ -509,7 +509,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_adrenaline_pump",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedSolarskin",
@@ -519,7 +519,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_solarskin",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedSubdermalSpikes",
@@ -529,7 +529,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_subdermal_spikes",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedSyntheticSkin",
@@ -539,7 +539,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_synthetic_skin",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedIsothermicSkin",
@@ -549,7 +549,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_isothermic_skin",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedTargetedImmunosuppressant",
@@ -559,7 +559,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_targeted_immunosuppressant",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedWiredReflexes",
@@ -569,7 +569,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_wired_reflexes",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedMyomerMuscleReplacement",
@@ -579,7 +579,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_myomer_muscle_replacement",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedBonelacing",
@@ -589,7 +589,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_bonelacing",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedCitrateEnhancement",
@@ -599,7 +599,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_citrate_enhancement",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedMarrowBattery",
@@ -609,7 +609,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_marrow_battery",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedQuickdrawFlywheels",
@@ -619,7 +619,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_quickdraw_flywheels",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedLeftCyberarm",
@@ -629,7 +629,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_left_cyberarm",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedRightCyberarm",
@@ -639,7 +639,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_right_cyberarm",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedFineManipulators",
@@ -649,7 +649,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_fine_manipulators",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedRetractableClaws",
@@ -659,7 +659,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_retractable_claws",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedReinforcedFist",
@@ -669,7 +669,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_reinforced_fist",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedLinearActuators",
@@ -679,7 +679,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_linear_actuators",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedFallBracers",
@@ -689,7 +689,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_fall_bracers",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedLeftCyberleg",
@@ -699,7 +699,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_left_cyberleg",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedRightCyberleg",
@@ -709,7 +709,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_right_cyberleg",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedImplantedSpurs",
@@ -719,7 +719,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_implanted_spurs",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedAquaticPropulsionSystem",
@@ -729,7 +729,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_aquatic_propulsion_system",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SalvagedDeployableWheels",
@@ -739,7 +739,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_deployable_wheels",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "Cybereyes",
@@ -749,7 +749,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cybereyes",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "NightVision",
@@ -759,7 +759,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "night_vision",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "LiquidRefractionCalibrator",
@@ -769,7 +769,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "liquid_refraction_calibrator",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "Hudjack",
@@ -779,7 +779,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "hudjack",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "TargetingOverlay",
@@ -789,7 +789,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "targeting_overlay",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "DistanceEnhancer",
@@ -799,7 +799,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "distance_enhancer",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "Hudlens",
@@ -809,7 +809,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "hudlens",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "CorticalStack",
@@ -819,7 +819,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cortical_stack",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "EnderJammer",
@@ -829,7 +829,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ender_jammer",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "ConsciousnessTransmitter",
@@ -839,7 +839,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "consciousness_transmitter",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "NeuralContextualizer",
@@ -849,7 +849,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "neural_contextualizer",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "ThreatMatrixCalculator",
@@ -859,7 +859,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "threat_matrix_calculator",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "CardiomechanicPump",
@@ -869,7 +869,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cardiomechanic_pump",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "InternalDefibrillator",
@@ -879,7 +879,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "internal_defibrillator",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "PlateletDispatcher",
@@ -889,7 +889,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "platelet_dispatcher",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "StemCellSynthesizer",
@@ -899,7 +899,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stem_cell_synthesizer",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "CardiovascularCoupler",
@@ -909,7 +909,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cardiovascular_coupler",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "CompressedOxygenImplant",
@@ -919,7 +919,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "compressed_oxygen_implant",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "HyperoxygenationBoost",
@@ -929,7 +929,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "hyperoxygenation_boost",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "UltradenseCapacitor",
@@ -939,7 +939,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ultradense_capacitor",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "LiverFilter",
@@ -949,7 +949,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "liver_filter",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "MetabolicGenerator",
@@ -959,7 +959,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "metabolic_generator",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "InternalBattery",
@@ -969,7 +969,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "internal_battery",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "AdrenalinePump",
@@ -979,7 +979,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "adrenaline_pump",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "Solarskin",
@@ -989,7 +989,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "solarskin",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "SubdermalSpikes",
@@ -999,7 +999,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "subdermal_spikes",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "SyntheticSkin",
@@ -1009,7 +1009,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "synthetic_skin",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "IsothermicSkin",
@@ -1019,7 +1019,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "isothermic_skin",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "TargetedImmunosuppressant",
@@ -1029,7 +1029,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "targeted_immunosuppressant",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "WiredReflexes",
@@ -1039,7 +1039,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wired_reflexes",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "MyomerMuscleReplacement",
@@ -1049,7 +1049,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "myomer_muscle_replacement",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "Bonelacing",
@@ -1059,7 +1059,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bonelacing",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "CitrateEnhancement",
@@ -1069,7 +1069,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "citrate_enhancement",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "MarrowBattery",
@@ -1079,7 +1079,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "marrow_battery",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "QuickdrawFlywheels",
@@ -1089,7 +1089,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "quickdraw_flywheels",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "LeftCyberarm",
@@ -1099,7 +1099,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "left_cyberarm",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "RightCyberarm",
@@ -1109,7 +1109,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "right_cyberarm",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "FineManipulators",
@@ -1119,7 +1119,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "fine_manipulators",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "RetractableClaws",
@@ -1129,7 +1129,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "retractable_claws",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "ReinforcedFist",
@@ -1139,7 +1139,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "reinforced_fist",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "LinearActuators",
@@ -1149,7 +1149,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "linear_actuators",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "FallBracers",
@@ -1159,7 +1159,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "fall_bracers",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "LeftCyberleg",
@@ -1169,7 +1169,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "left_cyberleg",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "RightCyberleg",
@@ -1179,7 +1179,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "right_cyberleg",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "ImplantedSpurs",
@@ -1189,7 +1189,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "implanted_spurs",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "AquaticPropulsionSystem",
@@ -1199,7 +1199,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "aquatic_propulsion_system",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "DeployableWheels",
@@ -1209,7 +1209,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "deployable_wheels",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "SalvagedBionicsTab",
@@ -1239,7 +1239,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salvaged_synthetic_chromatophores",
-      "path": "~/Salvaged Cyberware"
+      "path": "~/Items/Salvaged Cyberware"
     },
     {
       "name": "SyntheticChromatophores",
@@ -1249,7 +1249,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "synthetic_chromatophores",
-      "path": "~/Cyberware"
+      "path": "~/Items/Cyberware"
     },
     {
       "name": "Cyberzombie",
@@ -2931,18 +2931,6 @@
         "children": []
       },
       {
-        "name": "Cyberware",
-        "children": []
-      },
-      {
-        "name": "Components",
-        "children": []
-      },
-      {
-        "name": "Salvaged Cyberware",
-        "children": []
-      },
-      {
         "name": "Creative Tabs",
         "children": []
       },
@@ -2964,7 +2952,20 @@
       },
       {
         "name": "Items",
-        "children": []
+        "children": [
+          {
+            "name": "Salvaged Cyberware",
+            "children": []
+          },
+          {
+            "name": "Components",
+            "children": []
+          },
+          {
+            "name": "Cyberware",
+            "children": []
+          }
+        ]
       },
       {
         "name": "Procedures",
