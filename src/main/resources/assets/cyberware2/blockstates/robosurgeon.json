@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cyberware2:block/robosurgeon"
+    },
+    "facing=east": {
+      "model": "cyberware2:block/robosurgeon",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cyberware2:block/robosurgeon",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cyberware2:block/robosurgeon",
+      "y": 270
+    }
+  }
+}

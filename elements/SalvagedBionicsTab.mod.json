@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Salvaged Cyberware",
+    "icon": {
+      "value": "CUSTOM:SalvagedCybereyes"
+    },
+    "showSearch": true
+  }
+}

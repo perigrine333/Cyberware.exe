@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "surgerychamber_texture"
+      },
+      "name": "default"
+    }
+  }
+}

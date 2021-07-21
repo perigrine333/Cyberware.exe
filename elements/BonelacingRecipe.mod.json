@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "cyberware2",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ComponentTitaniumMesh"
+      },
+      {
+        "value": "CUSTOM:ComponentBioreactor"
+      },
+      {
+        "value": "CUSTOM:ComponentFullereneMicrostructures"
+      },
+      {
+        "value": "CUSTOM:ComponentFullereneMicrostructures"
+      },
+      {
+        "value": "CUSTOM:ComponentTitaniumMesh"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Bonelacing"
+    },
+    "name": "bonelacing_recipe",
+    "namespace": "mod"
+  }
+}

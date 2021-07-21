@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "cyberware2",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ComponentSyntheticNerves"
+      },
+      {
+        "value": "CUSTOM:ComponentChromePlating"
+      },
+      {
+        "value": "CUSTOM:ComponentActuator"
+      },
+      {
+        "value": "CUSTOM:ComponentTitaniumMesh"
+      },
+      {
+        "value": "CUSTOM:ComponentActuator"
+      },
+      {
+        "value": "CUSTOM:ComponentTitaniumMesh"
+      },
+      {
+        "value": "CUSTOM:ComponentFiberOptics"
+      },
+      {
+        "value": "CUSTOM:ComponentChromePlating"
+      },
+      {
+        "value": "CUSTOM:ComponentActuator"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LeftCyberarm"
+    },
+    "name": "left_cyberarm_recipe",
+    "namespace": "mod"
+  }
+}

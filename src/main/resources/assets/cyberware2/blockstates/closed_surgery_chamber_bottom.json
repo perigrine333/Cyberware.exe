@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cyberware2:block/closed_surgery_chamber_bottom"
+    },
+    "facing=east": {
+      "model": "cyberware2:block/closed_surgery_chamber_bottom",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cyberware2:block/closed_surgery_chamber_bottom",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cyberware2:block/closed_surgery_chamber_bottom",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "cyberware2",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ComponentActuator"
+      },
+      {
+        "value": "CUSTOM:ComponentActuator"
+      },
+      {
+        "value": "CUSTOM:ComponentActuator"
+      },
+      {
+        "value": "CUSTOM:ComponentActuator"
+      },
+      {
+        "value": "CUSTOM:ComponentChromePlating"
+      },
+      {
+        "value": "CUSTOM:ComponentSolidStateCircuitry"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FineManipulators"
+    },
+    "name": "fine_manipulators_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "hand_upgrades_mining",
+    "customModelName": "Normal",
+    "name": "Reinforced Fist",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:BionicsTab"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Hands mine at stone level",
+      "Tolerance Cost: 1",
+      "REQUIRES LEFT OR RIGHT CYBERARM"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cyberware2:blocks/deconstruction_table_sides",
+    "up": "cyberware2:blocks/deconstruction_table_top",
+    "north": "cyberware2:blocks/deconstruction_table_sides",
+    "east": "cyberware2:blocks/deconstruction_table_sides",
+    "south": "cyberware2:blocks/deconstruction_table_sides",
+    "west": "cyberware2:blocks/deconstruction_table_sides",
+    "particle": "cyberware2:blocks/deconstruction_table_sides"
+  }
+}

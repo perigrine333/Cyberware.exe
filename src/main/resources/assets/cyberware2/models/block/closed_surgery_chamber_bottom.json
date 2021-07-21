@@ -1,0 +1,8 @@
+{
+  "parent": "cyberware2:custom/surgerychamberclosed_bottom",
+  "textures": {
+    "all": "cyberware2:blocks/surgery_chamber",
+    "particle": "cyberware2:blocks/surgery_chamber",
+    "0": "cyberware2:blocks/surgerychamber_texture"
+  }
+}

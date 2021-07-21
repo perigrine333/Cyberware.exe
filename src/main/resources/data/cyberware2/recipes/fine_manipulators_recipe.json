@@ -1,0 +1,28 @@
+{
+  "group": "cyberware2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_chrome_plating"
+    },
+    {
+      "item": "cyberware2:component_solid_state_circuitry"
+    }
+  ],
+  "result": {
+    "item": "cyberware2:fine_manipulators",
+    "count": 1
+  }
+}

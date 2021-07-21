@@ -1,0 +1,42 @@
+{
+  "group": "cyberware2",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cyberware2:component_actuator"
+    },
+    "1": {
+      "item": "cyberware2:component_chrome_plating"
+    },
+    "2": {
+      "item": "cyberware2:component_titanium_mesh"
+    },
+    "3": {
+      "item": "cyberware2:component_chrome_plating"
+    },
+    "4": {
+      "item": "cyberware2:component_actuator"
+    },
+    "5": {
+      "item": "cyberware2:component_fiber_optics"
+    },
+    "6": {
+      "item": "cyberware2:component_titanium_mesh"
+    },
+    "7": {
+      "item": "cyberware2:component_actuator"
+    },
+    "8": {
+      "item": "cyberware2:component_synthetic_nerves"
+    }
+  },
+  "result": {
+    "item": "cyberware2:right_cyberleg",
+    "count": 1
+  }
+}

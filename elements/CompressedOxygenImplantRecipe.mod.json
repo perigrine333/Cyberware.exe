@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "cyberware2",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ComponentBioreactor"
+      },
+      {
+        "value": "CUSTOM:ComponentStorageCell"
+      },
+      {
+        "value": "CUSTOM:ComponentBioreactor"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ComponentStorageCell"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CompressedOxygenImplant"
+    },
+    "name": "compressed_oxygen_implant_recipe",
+    "namespace": "mod"
+  }
+}

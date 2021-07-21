@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "cyberware2",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ComponentActuator"
+      },
+      {
+        "value": "CUSTOM:ComponentFullereneMicrostructures"
+      },
+      {
+        "value": "CUSTOM:ComponentFullereneMicrostructures"
+      },
+      {
+        "value": "CUSTOM:ComponentMicroelectricCells"
+      },
+      {
+        "value": "CUSTOM:ComponentMicroelectricCells"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:InternalDefibrillator"
+    },
+    "name": "internal_defibrillator_recipe",
+    "namespace": "mod"
+  }
+}

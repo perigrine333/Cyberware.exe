@@ -1,0 +1,39 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "leg_upgrades_jump_boost_scavenged",
+    "customModelName": "Normal",
+    "name": "Salvaged Linear Actuators",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:SalvagedBionicsTab"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Jump higher",
+      "Shift jump to launch yourself",
+      "More powerful with two Cyberlegs",
+      "Tolerance Cost: 5",
+      "REQUIRES LEFT OR RIGHT CYBERLEG"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

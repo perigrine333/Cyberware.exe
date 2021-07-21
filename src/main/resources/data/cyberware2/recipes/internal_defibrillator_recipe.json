@@ -1,0 +1,25 @@
+{
+  "group": "cyberware2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_fullerene_microstructures"
+    },
+    {
+      "item": "cyberware2:component_fullerene_microstructures"
+    },
+    {
+      "item": "cyberware2:component_microelectric_cells"
+    },
+    {
+      "item": "cyberware2:component_microelectric_cells"
+    }
+  ],
+  "result": {
+    "item": "cyberware2:internal_defibrillator",
+    "count": 1
+  }
+}

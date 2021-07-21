@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cyberware2:items/hand_upgrades_craft_hands_scavenged"
+  }
+}

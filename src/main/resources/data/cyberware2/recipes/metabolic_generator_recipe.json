@@ -1,0 +1,25 @@
+{
+  "group": "cyberware2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cyberware2:component_storage_cell"
+    },
+    {
+      "item": "cyberware2:component_bioreactor"
+    },
+    {
+      "item": "cyberware2:component_bioreactor"
+    },
+    {
+      "item": "cyberware2:component_solid_state_circuitry"
+    },
+    {
+      "item": "cyberware2:component_microelectric_cells"
+    }
+  ],
+  "result": {
+    "item": "cyberware2:metabolic_generator",
+    "count": 1
+  }
+}

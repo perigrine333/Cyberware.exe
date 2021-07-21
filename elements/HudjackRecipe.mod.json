@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "cyberware2",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ComponentSolidStateCircuitry"
+      },
+      {
+        "value": "CUSTOM:ComponentFiberOptics"
+      },
+      {
+        "value": "CUSTOM:ComponentFullereneMicrostructures"
+      },
+      {
+        "value": "CUSTOM:ComponentSyntheticNerves"
+      },
+      {
+        "value": "CUSTOM:ComponentSyntheticNerves"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Hudjack"
+    },
+    "name": "hudjack_recipe",
+    "namespace": "mod"
+  }
+}

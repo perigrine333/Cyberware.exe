@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "cyberware2",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ComponentTitaniumMesh"
+      },
+      {
+        "value": "CUSTOM:ComponentActuator"
+      },
+      {
+        "value": "CUSTOM:ComponentChromePlating"
+      },
+      {
+        "value": "CUSTOM:ComponentTitaniumMesh"
+      },
+      {
+        "value": "CUSTOM:ComponentMicroelectricCells"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SubdermalSpikes"
+    },
+    "name": "subdermal_spikes_recipe",
+    "namespace": "mod"
+  }
+}

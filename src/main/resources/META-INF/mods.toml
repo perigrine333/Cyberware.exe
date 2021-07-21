@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+
+[[mods]]
+modId="cyberware2"
+version="2.0.0"
+displayName="Cyberware.exe"
+credits="Thanks to Flaxbeard for the original idea"
+displayURL="https://mcreator.net"
+authors="Perigrine3"
+
+[[dependencies.cyberware2]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

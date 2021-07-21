@@ -1,0 +1,25 @@
+{
+  "group": "cyberware2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cyberware2:component_fullerene_microstructures"
+    },
+    {
+      "item": "cyberware2:component_solid_state_circuitry"
+    },
+    {
+      "item": "cyberware2:component_synthetic_nerves"
+    },
+    {
+      "item": "cyberware2:component_synthetic_nerves"
+    },
+    {
+      "item": "cyberware2:component_synthetic_nerves"
+    }
+  ],
+  "result": {
+    "item": "cyberware2:consciousness_transmitter",
+    "count": 1
+  }
+}

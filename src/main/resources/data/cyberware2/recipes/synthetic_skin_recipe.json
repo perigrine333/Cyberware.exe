@@ -1,0 +1,28 @@
+{
+  "group": "cyberware2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cyberware2:component_bioreactor"
+    },
+    {
+      "item": "cyberware2:component_chrome_plating"
+    },
+    {
+      "item": "cyberware2:component_chrome_plating"
+    },
+    {
+      "item": "cyberware2:component_chrome_plating"
+    },
+    {
+      "item": "cyberware2:component_fiber_optics"
+    },
+    {
+      "item": "cyberware2:component_fiber_optics"
+    }
+  ],
+  "result": {
+    "item": "cyberware2:synthetic_skin",
+    "count": 1
+  }
+}

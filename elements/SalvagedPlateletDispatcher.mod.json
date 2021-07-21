@@ -1,0 +1,37 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "heart_upgrades_platelets_scavenged",
+    "customModelName": "Normal",
+    "name": "Salvaged Platelet Dispatcher",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:SalvagedBionicsTab"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Heals when close to full health",
+      "Requires -3pow/s when in use",
+      "Tolerance Cost: 8"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

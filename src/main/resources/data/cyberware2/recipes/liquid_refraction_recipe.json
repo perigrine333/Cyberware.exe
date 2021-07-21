@@ -1,0 +1,19 @@
+{
+  "group": "cyberware2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cyberware2:component_fiber_optics"
+    },
+    {
+      "item": "cyberware2:component_synthetic_nerves"
+    },
+    {
+      "item": "cyberware2:component_fiber_optics"
+    }
+  ],
+  "result": {
+    "item": "cyberware2:liquid_refraction_calibrator",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "cyberware2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_titanium_mesh"
+    },
+    {
+      "item": "cyberware2:component_titanium_mesh"
+    }
+  ],
+  "result": {
+    "item": "cyberware2:linear_actuators",
+    "count": 1
+  }
+}

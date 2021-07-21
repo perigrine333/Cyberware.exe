@@ -1,0 +1,34 @@
+{
+  "group": "cyberware2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_titanium_mesh"
+    },
+    {
+      "item": "cyberware2:component_titanium_mesh"
+    },
+    {
+      "item": "cyberware2:component_chrome_plating"
+    },
+    {
+      "item": "cyberware2:component_fullerene_microstructures"
+    },
+    {
+      "item": "cyberware2:component_storage_cell"
+    },
+    {
+      "item": "cyberware2:component_storage_cell"
+    }
+  ],
+  "result": {
+    "item": "cyberware2:retractable_claws",
+    "count": 1
+  }
+}

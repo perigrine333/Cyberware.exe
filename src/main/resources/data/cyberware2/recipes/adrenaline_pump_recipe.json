@@ -1,0 +1,19 @@
+{
+  "group": "cyberware2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_bioreactor"
+    },
+    {
+      "item": "cyberware2:component_bioreactor"
+    }
+  ],
+  "result": {
+    "item": "cyberware2:adrenaline_pump",
+    "count": 1
+  }
+}

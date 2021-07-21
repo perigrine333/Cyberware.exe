@@ -1,0 +1,25 @@
+{
+  "group": "cyberware2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cyberware2:component_titanium_mesh"
+    },
+    {
+      "item": "cyberware2:component_bioreactor"
+    },
+    {
+      "item": "cyberware2:component_fullerene_microstructures"
+    },
+    {
+      "item": "cyberware2:component_fullerene_microstructures"
+    },
+    {
+      "item": "cyberware2:component_titanium_mesh"
+    }
+  ],
+  "result": {
+    "item": "cyberware2:bonelacing",
+    "count": 1
+  }
+}

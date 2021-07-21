@@ -1,0 +1,28 @@
+{
+  "group": "cyberware2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_fiber_optics"
+    },
+    {
+      "item": "cyberware2:component_titanium_mesh"
+    },
+    {
+      "item": "cyberware2:component_fiber_optics"
+    }
+  ],
+  "result": {
+    "item": "cyberware2:myomer_muscle_replacement",
+    "count": 1
+  }
+}

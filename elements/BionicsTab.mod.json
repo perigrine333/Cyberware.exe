@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Cyberware",
+    "icon": {
+      "value": "CUSTOM:Cybereyes"
+    },
+    "showSearch": true
+  }
+}

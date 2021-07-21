@@ -1,0 +1,28 @@
+{
+  "group": "cyberware2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cyberware2:component_fiber_optics"
+    },
+    {
+      "item": "cyberware2:component_fiber_optics"
+    },
+    {
+      "item": "cyberware2:component_synthetic_nerves"
+    },
+    {
+      "item": "cyberware2:component_synthetic_nerves"
+    },
+    {
+      "item": "cyberware2:component_synthetic_nerves"
+    },
+    {
+      "item": "cyberware2:component_synthetic_nerves"
+    }
+  ],
+  "result": {
+    "item": "cyberware2:distance_enhancer",
+    "count": 1
+  }
+}

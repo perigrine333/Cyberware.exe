@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "missing": "surgerychamber_texture"
+      },
+      "name": "default"
+    }
+  }
+}

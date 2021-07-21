@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cyberware2:blocks/robosurgeon_sides",
+    "up": "cyberware2:blocks/robosurgeon_sides",
+    "north": "cyberware2:blocks/robosurgeon_screen",
+    "east": "cyberware2:blocks/robosurgeon_sides",
+    "south": "cyberware2:blocks/robosurgeon_sides",
+    "west": "cyberware2:blocks/robosurgeon_sides",
+    "particle": "cyberware2:blocks/robosurgeon_sides"
+  }
+}

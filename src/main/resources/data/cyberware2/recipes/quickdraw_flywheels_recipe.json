@@ -1,0 +1,28 @@
+{
+  "group": "cyberware2",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_actuator"
+    },
+    {
+      "item": "cyberware2:component_chrome_plating"
+    },
+    {
+      "item": "cyberware2:component_chrome_plating"
+    }
+  ],
+  "result": {
+    "item": "cyberware2:quickdraw_flywheels",
+    "count": 1
+  }
+}

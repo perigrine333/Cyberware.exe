@@ -1,0 +1,36 @@
+{
+  "_fv": 18,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "POWER: <VAR:integer:PlayerPower>",
+          "color": {
+            "value": -16711936,
+            "falpha": 0.0
+          },
+          "name": "POWER: <VAR:integer:PlayerPower>",
+          "x": 3,
+          "y": 6
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "TOLERANCE: <VAR:integer:PlayerTolerance>",
+          "color": {
+            "value": -3407668,
+            "falpha": 0.0
+          },
+          "name": "TOLERANCE: <VAR:integer:PlayerTolerance>",
+          "x": 4,
+          "y": 19
+        }
+      }
+    ],
+    "baseTexture": ""
+  }
+}
